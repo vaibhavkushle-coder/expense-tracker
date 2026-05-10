@@ -94,7 +94,7 @@ function App(){
         listStyle:"none"
       }}>
 
-        <h1 style={{lineHeight:"35px"}}>💰Expense Tracker</h1>
+        <h1 style={{lineHeight:"70px"}}>💰Expense Tracker</h1>
 
 
 <input
